@@ -45,3 +45,4 @@ app/
   state/         — Redux store + slices
 android/         — Full native Android build files
 ```
+New
