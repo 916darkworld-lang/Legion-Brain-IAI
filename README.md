@@ -1,4 +1,4 @@
-# Legion AI° — Mobile App
+# Legion-Brain-IAI° — Mobile App
 
 A complete React Native + Android project for the Legion AI° vibe-coding platform.
 
