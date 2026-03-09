@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803549498409",
+    "project_id": "legion-iai",
+    "storage_bucket": "legion-iai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803549498409:android:2aebdbeb7fa07b3aae2038",
+        "android_client_info": {
+          "package_name": "Com.Legion.IAI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADogI6evsJ-b6wTFX1vomrDvAARg8p11E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
